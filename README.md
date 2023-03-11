@@ -1,6 +1,6 @@
 # python-weather-api
 
-Python script to create visualizions of the weather of over 500 cities of varying distances from the equator in Jupyter Notebook using Geoapify API and the geoViews Python library. 
+Python script to create visualizations of the weather of over 500 cities of varying distances from the equator in Jupyter Notebook using Geoapify API and the geoViews Python library. 
 
 ## Weather-Py
 
